@@ -12,4 +12,4 @@ M.S. student at the **University of Chinese Academy of Sciences (UCAS)**, workin
 
 **Interests**: VLA / embodied AI · representation & manifold learning · deployment-aware model adaptation · real-robot (SO-101) evaluation.
 
-<sub>Open-source contributor: MaaAssistantArknights, HoshinoBot, …</sub>
+<sub>Open-source contributor (as [@lhhxxxxx](https://github.com/lhhxxxxx)): MaaAssistantArknights, HoshinoBot, …</sub>
