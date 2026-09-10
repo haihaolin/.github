@@ -2,14 +2,14 @@
 
 ## Haihao Lin (林海昊)
 
-M.S. student at the **University of Chinese Academy of Sciences (UCAS)**, working on **VLA post-training and representation stability, cross-task generalization, and real-robot learning**.
+M.S. student at the **University of Chinese Academy of Sciences (UCAS)**, advised by Prof. Xiangsheng Huang (expected graduation: June 2027).
 
-🔬 **[FiberTune](https://fibertune.github.io/)** — preserving *action-fiber visual residuals* in VLA fine-tuning, with no added inference-time overhead (accepted at CoRL 2026; first & corresponding author). 📄 [arXiv:2606.08653](https://arxiv.org/abs/2606.08653)
+**Research interests:** Multimodal representation learning and reasoning; continual learning and adaptation; world modeling and embodied intelligence.
+
+My recent work, **[FiberTune](https://fibertune.github.io/)**, preserves transferable visual structure during vision-language-action fine-tuning without adding inference-time overhead. Accepted at **CoRL 2026**; first and corresponding author. [Paper](https://arxiv.org/abs/2606.08653) · [Code](https://github.com/fibertune/FiberTune)
 
 - 🌐 Homepage: https://haihaolin.github.io
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=EquZ0VIAAAAJ) · 🆔 [ORCID](https://orcid.org/0009-0006-0017-0220)
 - 📫 linhaihao24@mails.ucas.ac.cn
 
-**Interests**: VLA post-training · representation stability · WAM · cross-task generalization · real-robot learning.
-
-<sub>Open-source contributor (as [@lhhxxxxx](https://github.com/lhhxxxxx)): MaaAssistantArknights, HoshinoBot, …</sub>
+Open-source work (as [@lhhxxxxx](https://github.com/lhhxxxxx)): C++ core modules, WPF features, and task planning for MaaAssistantArknights; conversational-model plugins and non-invasive message-trigger conflict detection tools in the HoshinoBot ecosystem.
